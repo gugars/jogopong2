@@ -1,2 +1,2 @@
-# jogopong2
-Edição 00
+# pongtwo
+Jogo pong no JavaScript
